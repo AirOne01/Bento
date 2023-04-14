@@ -12,7 +12,7 @@ const CONFIG = {
 
   
 	// General
-	name: 'John',
+	name: 'Erwann',
 	openInNewTab: true,
 	twelveHourFormat: false,
   title: 'Bento',
